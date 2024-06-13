@@ -62,6 +62,7 @@ Rainy Days: The dates when it rained are extracted using df['EST'][df['Events'] 
 Handling Missing Data: Missing values in the dataset are filled with 0 using df.fillna(0, inplace=True).
 Average Wind Speed: The average wind speed is calculated using df['WindSpeedMPH'].mean().
 Displaying Changes: The first few rows of the dataset are displayed again to show the changes made.
+<<<<<<< HEAD
 
 # Weather Data Analysis
 
@@ -167,6 +168,8 @@ Operations: Perform basic statistical operations such as min, max, mean, standar
 Conditional Selection: Filter rows based on conditions.
 Set Index: Change the index of the DataFrame and reset it as needed.
 
+=======
+>>>>>>> origin/main
 Contributing
 If you want to contribute to this project, follow these steps:
 
@@ -179,6 +182,13 @@ Alternatively, see the GitHub documentation on creating a pull request.
 
 License
 This project is open source and available under the MIT License.
+<<<<<<< HEAD
+=======
+
+markdown
+Copy code
+
+>>>>>>> origin/main
 ### Notes:
 
 1. Save this content in a file named `README.md` in your project directory.
