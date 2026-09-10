@@ -1,0 +1,354 @@
+Date,Description,Amount,Category,Sub-Category,Payment_Method
+2026-01-01,Salary Credit,150000,Income,Salary,Bank Transfer
+2026-01-02,Swiggy Food Order,-450,Food,Eating Out,UPI
+2026-01-02,Uber Ride to Office,-280,Transport,Ride Share,UPI
+2026-01-03,BigBasket Groceries,-1250,Groceries,Essentials,Card
+2026-01-03,Netflix Monthly,-199,Entertainment,Subscription,Card
+2026-01-04,Rent Payment,-25000,Rent,Housing,Bank Transfer
+2026-01-04,Electricity Bill,-3400,Bills,Utilities,Card
+2026-01-05,Zomato Dinner,-780,Food,Eating Out,UPI
+2026-01-05,Petrol Pump,-1500,Transport,Fuel,Card
+2026-01-06,Amazon Shopping,-2350,Shopping,Online,Card
+2026-01-06,Internet Bill,-1200,Bills,Utilities,Card
+2026-01-07,Morning Coffee,-180,Food,Beverages,UPI
+2026-01-07,Metro Card Recharge,-500,Transport,Public Transit,UPI
+2026-01-08,Pharmacy Medical,-650,Healthcare,Medicine,Card
+2026-01-08,Swiggy Lunch,-320,Food,Eating Out,UPI
+2026-01-09,Phone Bill,-800,Bills,Utilities,Card
+2026-01-09,Gym Membership,-2500,Health,Fitness,Card
+2026-01-10,Movie Tickets,-600,Entertainment,Events,UPI
+2026-01-10,Groceries Local,-900,Groceries,Essentials,UPI
+2026-01-11,Uber to Mall,-350,Transport,Ride Share,UPI
+2026-01-11,New Shoes,-4500,Shopping,Clothing,Card
+2026-01-12,Restaurant Dinner,-1200,Food,Eating Out,Card
+2026-01-12,Insurance Premium,-5000,Insurance,Health,Card
+2026-01-13,Swiggy Order,-550,Food,Eating Out,UPI
+2026-01-13,Water Bill,-800,Bills,Utilities,Card
+2026-01-14,Petrol Refill,-1600,Transport,Fuel,Card
+2026-01-14,Book Purchase,-450,Shopping,Books,Card
+2026-01-15,Birthday Gift,-2000,Others,Gifts,Card
+2026-01-15,Coffee with Friends,-350,Food,Beverages,UPI
+2026-01-16,BigBasket Delivery,-1100,Groceries,Essentials,Card
+2026-01-16,Zomato Lunch,-280,Food,Eating Out,UPI
+2026-01-17,Haircut,-500,Personal Care,Grooming,UPI
+2026-01-17,Uber to Airport,-650,Transport,Ride Share,UPI
+2026-01-18,Weekend Trip,-3500,Travel,Leisure,Card
+2026-01-18,Hotel Stay,-4200,Travel,Accommodation,Card
+2026-01-19,Restaurant Bill,-850,Food,Eating Out,Card
+2026-01-19,Swiggy Late Night,-320,Food,Eating Out,UPI
+2026-01-20,Gas Bill,-1400,Bills,Utilities,Card
+2026-01-20,Amazon Purchase,-1800,Shopping,Online,Card
+2026-01-21,Metro Travel,-150,Transport,Public Transit,UPI
+2026-01-21,Pharmacy,-400,Healthcare,Medicine,UPI
+2026-01-22,Dinner with Family,-1500,Food,Eating Out,Card
+2026-01-22,Netflix Upgrade,-399,Entertainment,Subscription,Card
+2026-01-23,Petrol,-1400,Transport,Fuel,Card
+2026-01-23,Groceries,-750,Groceries,Essentials,UPI
+2026-01-24,Laundry Service,-300,Personal Care,Service,UPI
+2026-01-24,Swiggy Food,-420,Food,Eating Out,UPI
+2026-01-25,Cafe Visit,-280,Food,Beverages,UPI
+2026-01-25,EMI Payment,-15000,EMI,Loan,Card
+2026-01-26,Weekend Shopping,-3200,Shopping,Clothing,Card
+2026-01-26,Dinner Out,-980,Food,Eating Out,Card
+2026-01-27,Uber Office,-300,Transport,Ride Share,UPI
+2026-01-27,Vegetables,-400,Groceries,Essentials,UPI
+2026-01-28,Insurance Premium,-5000,Insurance,Health,Card
+2026-01-28,Coffee,-150,Food,Beverages,UPI
+2026-01-29,Swiggy Order,-580,Food,Eating Out,UPI
+2026-01-29,Phone Recharge,-500,Bills,Utilities,UPI
+2026-01-30,Amazon Shopping,-2100,Shopping,Electronics,Card
+2026-01-30,Fast Food,-340,Food,Eating Out,UPI
+2026-01-31,Monthly Groceries,-1500,Groceries,Essentials,Card
+2026-02-01,Salary Credit,150000,Income,Salary,Bank Transfer
+2026-02-01,Swiggy Dinner,-450,Food,Eating Out,UPI
+2026-02-02,Uber Ride,-320,Transport,Ride Share,UPI
+2026-02-02,BigBasket,-1300,Groceries,Essentials,Card
+2026-02-03,Netflix,-199,Entertainment,Subscription,Card
+2026-02-03,Rent,-25000,Rent,Housing,Bank Transfer
+2026-02-04,Electricity,-2800,Bills,Utilities,Card
+2026-02-04,Zomato Food,-650,Food,Eating Out,UPI
+2026-02-05,Petrol,-1600,Transport,Fuel,Card
+2026-02-05,Amazon,-2800,Shopping,Online,Card
+2026-02-06,Internet,-1200,Bills,Utilities,Card
+2026-02-06,Coffee,-160,Food,Beverages,UPI
+2026-02-07,Metro Card,-500,Transport,Public Transit,UPI
+2026-02-07,Pharmacy,-700,Healthcare,Medicine,Card
+2026-02-08,Swiggy Lunch,-350,Food,Eating Out,UPI
+2026-02-08,Gym,-2500,Health,Fitness,Card
+2026-02-09,Phone Bill,-800,Bills,Utilities,Card
+2026-02-09,Movie,-500,Entertainment,Events,UPI
+2026-02-10,Groceries,-950,Groceries,Essentials,UPI
+2026-02-10,Uber Mall,-380,Transport,Ride Share,UPI
+2026-02-11,Clothing Purchase,-4000,Shopping,Clothing,Card
+2026-02-11,Restaurant,-1350,Food,Eating Out,Card
+2026-02-12,Insurance,-5000,Insurance,Health,Card
+2026-02-12,Swiggy,-480,Food,Eating Out,UPI
+2026-02-13,Water Bill,-800,Bills,Utilities,Card
+2026-02-13,Petrol,-1700,Transport,Fuel,Card
+2026-02-14,Valentine Dinner,-2500,Food,Eating Out,Card
+2026-02-14,Gift,-1500,Others,Gifts,Card
+2026-02-15,Books,-350,Shopping,Books,Card
+2026-02-15,Coffee,-200,Food,Beverages,UPI
+2026-02-16,BigBasket,-1150,Groceries,Essentials,Card
+2026-02-16,Zomato,-300,Food,Eating Out,UPI
+2026-02-17,Haircut,-550,Personal Care,Grooming,UPI
+2026-02-17,Uber Airport,-700,Transport,Ride Share,UPI
+2026-02-18,Short Trip,-2800,Travel,Leisure,Card
+2026-02-18,Hotel,-3800,Travel,Accommodation,Card
+2026-02-19,Dining,-900,Food,Eating Out,Card
+2026-02-19,Swiggy Night,-350,Food,Eating Out,UPI
+2026-02-20,Gas Bill,-1300,Bills,Utilities,Card
+2026-02-20,Amazon,-2200,Shopping,Online,Card
+2026-02-21,Metro,-160,Transport,Public Transit,UPI
+2026-02-21,Pharmacy,-450,Healthcare,Medicine,UPI
+2026-02-22,Family Dinner,-1800,Food,Eating Out,Card
+2026-02-22,Spotify,-120,Entertainment,Subscription,Card
+2026-02-23,Petrol,-1500,Transport,Fuel,Card
+2026-02-23,Groceries,-800,Groceries,Essentials,UPI
+2026-02-24,Laundry,-320,Personal Care,Service,UPI
+2026-02-24,Swiggy,-400,Food,Eating Out,UPI
+2026-02-25,Cafe,-250,Food,Beverages,UPI
+2026-02-25,EMI,-15000,EMI,Loan,Card
+2026-02-26,Weekend Shopping,-3500,Shopping,Clothing,Card
+2026-02-26,Dinner,-1000,Food,Eating Out,Card
+2026-02-27,Uber,-310,Transport,Ride Share,UPI
+2026-02-27,Vegetables,-450,Groceries,Essentials,UPI
+2026-02-28,Insurance,-5000,Insurance,Health,Card
+2026-02-28,Coffee,-180,Food,Beverages,UPI
+2026-03-01,Salary Credit,150000,Income,Salary,Bank Transfer
+2026-03-01,Swiggy Dinner,-500,Food,Eating Out,UPI
+2026-03-02,Uber Office,-290,Transport,Ride Share,UPI
+2026-03-02,BigBasket,-1400,Groceries,Essentials,Card
+2026-03-03,Netflix,-199,Entertainment,Subscription,Card
+2026-03-03,Rent,-25000,Rent,Housing,Bank Transfer
+2026-03-04,Electricity,-3100,Bills,Utilities,Card
+2026-03-04,Zomato,-700,Food,Eating Out,UPI
+2026-03-05,Petrol,-1550,Transport,Fuel,Card
+2026-03-05,Amazon,-3000,Shopping,Online,Card
+2026-03-06,Internet,-1200,Bills,Utilities,Card
+2026-03-06,Coffee,-170,Food,Beverages,UPI
+2026-03-07,Metro,-500,Transport,Public Transit,UPI
+2026-03-07,Pharmacy,-580,Healthcare,Medicine,Card
+2026-03-08,Swiggy Lunch,-330,Food,Eating Out,UPI
+2026-03-08,Gym,-2500,Health,Fitness,Card
+2026-03-09,Phone,-800,Bills,Utilities,Card
+2026-03-09,Movie Tickets,-550,Entertainment,Events,UPI
+2026-03-10,Groceries,-1000,Groceries,Essentials,UPI
+2026-03-10,Uber,-340,Transport,Ride Share,UPI
+2026-03-11,Clothes,-3800,Shopping,Clothing,Card
+2026-03-11,Restaurant,-1400,Food,Eating Out,Card
+2026-03-12,Insurance,-5000,Insurance,Health,Card
+2026-03-12,Swiggy,-520,Food,Eating Out,UPI
+2026-03-13,Water,-800,Bills,Utilities,Card
+2026-03-13,Petrol,-1650,Transport,Fuel,Card
+2026-03-14,Weekend Trip,-3000,Travel,Leisure,Card
+2026-03-14,Hotel,-4000,Travel,Accommodation,Card
+2026-03-15,Books,-400,Shopping,Books,Card
+2026-03-15,Coffee,-190,Food,Beverages,UPI
+2026-03-16,BigBasket,-1200,Groceries,Essentials,Card
+2026-03-16,Zomato,-310,Food,Eating Out,UPI
+2026-03-17,Haircut,-500,Personal Care,Grooming,UPI
+2026-03-17,Uber Airport,-680,Transport,Ride Share,UPI
+2026-03-18,Restaurant,-950,Food,Eating Out,Card
+2026-03-18,Swiggy Night,-360,Food,Eating Out,UPI
+2026-03-19,Gas Bill,-1350,Bills,Utilities,Card
+2026-03-19,Amazon,-2500,Shopping,Online,Card
+2026-03-20,Metro,-140,Transport,Public Transit,UPI
+2026-03-20,Pharmacy,-480,Healthcare,Medicine,UPI
+2026-03-21,Family Dinner,-1700,Food,Eating Out,Card
+2026-03-21,Prime Video,-180,Entertainment,Subscription,Card
+2026-03-22,Petrol,-1480,Transport,Fuel,Card
+2026-03-22,Groceries,-820,Groceries,Essentials,UPI
+2026-03-23,Laundry,-300,Personal Care,Service,UPI
+2026-03-23,Swiggy,-430,Food,Eating Out,UPI
+2026-03-24,Cafe,-230,Food,Beverages,UPI
+2026-03-24,EMI,-15000,EMI,Loan,Card
+2026-03-25,Shopping,-3300,Shopping,Clothing,Card
+2026-03-25,Dinner,-1050,Food,Eating Out,Card
+2026-03-26,Uber,-295,Transport,Ride Share,UPI
+2026-03-26,Vegetables,-420,Groceries,Essentials,UPI
+2026-03-27,Insurance,-5000,Insurance,Health,Card
+2026-03-27,Coffee,-160,Food,Beverages,UPI
+2026-03-28,Swiggy,-490,Food,Eating Out,UPI
+2026-03-28,Phone Recharge,-500,Bills,Utilities,UPI
+2026-03-29,Groceries,-1100,Groceries,Essentials,Card
+2026-03-30,Uber Mall,-360,Transport,Ride Share,UPI
+2026-03-31,Restaurant Dinner,-1300,Food,Eating Out,Card
+2026-04-01,Salary Credit,155000,Income,Salary,Bank Transfer
+2026-04-01,Swiggy,-470,Food,Eating Out,UPI
+2026-04-02,Uber,-310,Transport,Ride Share,UPI
+2026-04-02,BigBasket,-1350,Groceries,Essentials,Card
+2026-04-03,Netflix,-199,Entertainment,Subscription,Card
+2026-04-03,Rent,-25000,Rent,Housing,Bank Transfer
+2026-04-04,Electricity,-2900,Bills,Utilities,Card
+2026-04-04,Zomato,-680,Food,Eating Out,UPI
+2026-04-05,Petrol,-1580,Transport,Fuel,Card
+2026-04-05,Amazon,-2700,Shopping,Online,Card
+2026-04-06,Internet,-1200,Bills,Utilities,Card
+2026-04-06,Coffee,-175,Food,Beverages,UPI
+2026-04-07,Metro,-500,Transport,Public Transit,UPI
+2026-04-07,Pharmacy,-620,Healthcare,Medicine,Card
+2026-04-08,Swiggy Lunch,-340,Food,Eating Out,UPI
+2026-04-08,Gym,-2500,Health,Fitness,Card
+2026-04-09,Phone,-800,Bills,Utilities,Card
+2026-04-09,Movie,-520,Entertainment,Events,UPI
+2026-04-10,Groceries,-980,Groceries,Essentials,UPI
+2026-04-10,Uber,-330,Transport,Ride Share,UPI
+2026-04-11,Clothing,-4200,Shopping,Clothing,Card
+2026-04-11,Restaurant,-1250,Food,Eating Out,Card
+2026-04-12,Insurance,-5000,Insurance,Health,Card
+2026-04-12,Swiggy,-510,Food,Eating Out,UPI
+2026-04-13,Water,-800,Bills,Utilities,Card
+2026-04-13,Petrol,-1620,Transport,Fuel,Card
+2026-04-14,Book,-380,Shopping,Books,Card
+2026-04-14,Coffee,-185,Food,Beverages,UPI
+2026-04-15,BigBasket,-1250,Groceries,Essentials,Card
+2026-04-15,Zomato,-295,Food,Eating Out,UPI
+2026-04-16,Easter Dinner,-2200,Food,Eating Out,Card
+2026-04-16,Swiggy,-380,Food,Eating Out,UPI
+2026-04-17,Haircut,-520,Personal Care,Grooming,UPI
+2026-04-17,Uber Airport,-660,Transport,Ride Share,UPI
+2026-04-18,Weekend Getaway,-3200,Travel,Leisure,Card
+2026-04-18,Hotel,-3900,Travel,Accommodation,Card
+2026-04-19,Restaurant,-920,Food,Eating Out,Card
+2026-04-19,Swiggy Night,-340,Food,Eating Out,UPI
+2026-04-20,Gas Bill,-1380,Bills,Utilities,Card
+2026-04-20,Amazon,-2400,Shopping,Online,Card
+2026-04-21,Metro,-155,Transport,Public Transit,UPI
+2026-04-21,Pharmacy,-500,Healthcare,Medicine,UPI
+2026-04-22,Family Dinner,-1600,Food,Eating Out,Card
+2026-04-22,Hotstar,-150,Entertainment,Subscription,Card
+2026-04-23,Petrol,-1520,Transport,Fuel,Card
+2026-04-23,Groceries,-780,Groceries,Essentials,UPI
+2026-04-24,Laundry,-310,Personal Care,Service,UPI
+2026-04-24,Swiggy,-440,Food,Eating Out,UPI
+2026-04-25,Cafe,-240,Food,Beverages,UPI
+2026-04-25,EMI,-15000,EMI,Loan,Card
+2026-04-26,Shopping,-3400,Shopping,Clothing,Card
+2026-04-26,Dinner,-1080,Food,Eating Out,Card
+2026-04-27,Uber,-305,Transport,Ride Share,UPI
+2026-04-27,Vegetables,-430,Groceries,Essentials,UPI
+2026-04-28,Insurance,-5000,Insurance,Health,Card
+2026-04-28,Coffee,-165,Food,Beverages,UPI
+2026-04-29,Swiggy,-500,Food,Eating Out,UPI
+2026-04-29,Phone Recharge,-500,Bills,Utilities,UPI
+2026-04-30,Groceries,-1050,Groceries,Essentials,Card
+2026-05-01,Salary Credit,155000,Income,Salary,Bank Transfer
+2026-05-01,Swiggy,-460,Food,Eating Out,UPI
+2026-05-02,Uber,-325,Transport,Ride Share,UPI
+2026-05-02,BigBasket,-1380,Groceries,Essentials,Card
+2026-05-03,Netflix,-199,Entertainment,Subscription,Card
+2026-05-03,Rent,-25000,Rent,Housing,Bank Transfer
+2026-05-04,Electricity,-3200,Bills,Utilities,Card
+2026-05-04,Zomato,-720,Food,Eating Out,UPI
+2026-05-05,Petrol,-1600,Transport,Fuel,Card
+2026-05-05,Amazon,-3100,Shopping,Online,Card
+2026-05-06,Internet,-1200,Bills,Utilities,Card
+2026-05-06,Coffee,-180,Food,Beverages,UPI
+2026-05-07,Metro,-500,Transport,Public Transit,UPI
+2026-05-07,Pharmacy,-650,Healthcare,Medicine,Card
+2026-05-08,Swiggy Lunch,-355,Food,Eating Out,UPI
+2026-05-08,Gym,-2500,Health,Fitness,Card
+2026-05-09,Phone,-800,Bills,Utilities,Card
+2026-05-09,Movie,-580,Entertainment,Events,UPI
+2026-05-10,Groceries,-1020,Groceries,Essentials,UPI
+2026-05-10,Uber,-350,Transport,Ride Share,UPI
+2026-05-11,Clothes,-4500,Shopping,Clothing,Card
+2026-05-11,Restaurant,-1300,Food,Eating Out,Card
+2026-05-12,Insurance,-5000,Insurance,Health,Card
+2026-05-12,Swiggy,-530,Food,Eating Out,UPI
+2026-05-13,Water,-800,Bills,Utilities,Card
+2026-05-13,Petrol,-1680,Transport,Fuel,Card
+2026-05-14,Books,-420,Shopping,Books,Card
+2026-05-14,Coffee,-195,Food,Beverages,UPI
+2026-05-15,BigBasket,-1280,Groceries,Essentials,Card
+2026-05-15,Zomato,-320,Food,Eating Out,UPI
+2026-05-16,Restaurant,-980,Food,Eating Out,Card
+2026-05-16,Swiggy,-390,Food,Eating Out,UPI
+2026-05-17,Haircut,-540,Personal Care,Grooming,UPI
+2026-05-17,Uber Airport,-690,Transport,Ride Share,UPI
+2026-05-18,Travel Booking,-4500,Travel,Leisure,Card
+2026-05-18,Hotel,-4500,Travel,Accommodation,Card
+2026-05-19,Restaurant,-880,Food,Eating Out,Card
+2026-05-19,Swiggy Night,-370,Food,Eating Out,UPI
+2026-05-20,Gas Bill,-1400,Bills,Utilities,Card
+2026-05-20,Amazon,-2600,Shopping,Online,Card
+2026-05-21,Metro,-150,Transport,Public Transit,UPI
+2026-05-21,Pharmacy,-520,Healthcare,Medicine,UPI
+2026-05-22,Family Dinner,-1750,Food,Eating Out,Card
+2026-05-22,Music Streaming,-180,Entertainment,Subscription,Card
+2026-05-23,Petrol,-1550,Transport,Fuel,Card
+2026-05-23,Groceries,-850,Groceries,Essentials,UPI
+2026-05-24,Laundry,-330,Personal Care,Service,UPI
+2026-05-24,Swiggy,-450,Food,Eating Out,UPI
+2026-05-25,Cafe,-260,Food,Beverages,UPI
+2026-05-25,EMI,-15000,EMI,Loan,Card
+2026-05-26,Shopping,-3600,Shopping,Clothing,Card
+2026-05-26,Dinner,-1100,Food,Eating Out,Card
+2026-05-27,Uber,-315,Transport,Ride Share,UPI
+2026-05-27,Vegetables,-440,Groceries,Essentials,UPI
+2026-05-28,Insurance,-5000,Insurance,Health,Card
+2026-05-28,Coffee,-170,Food,Beverages,UPI
+2026-05-29,Swiggy,-510,Food,Eating Out,UPI
+2026-05-29,Phone Recharge,-500,Bills,Utilities,UPI
+2026-05-30,Groceries,-1150,Groceries,Essentials,Card
+2026-05-31,Uber Mall,-370,Transport,Ride Share,UPI
+2026-06-01,Salary Credit,160000,Income,Salary,Bank Transfer
+2026-06-01,Swiggy,-480,Food,Eating Out,UPI
+2026-06-02,Uber,-340,Transport,Ride Share,UPI
+2026-06-02,BigBasket,-1400,Groceries,Essentials,Card
+2026-06-03,Netflix,-199,Entertainment,Subscription,Card
+2026-06-03,Rent,-25000,Rent,Housing,Bank Transfer
+2026-06-04,Electricity,-3300,Bills,Utilities,Card
+2026-06-04,Zomato,-750,Food,Eating Out,UPI
+2026-06-05,Petrol,-1650,Transport,Fuel,Card
+2026-06-05,Amazon,-3200,Shopping,Online,Card
+2026-06-06,Internet,-1200,Bills,Utilities,Card
+2026-06-06,Coffee,-190,Food,Beverages,UPI
+2026-06-07,Metro,-500,Transport,Public Transit,UPI
+2026-06-07,Pharmacy,-680,Healthcare,Medicine,Card
+2026-06-08,Swiggy Lunch,-360,Food,Eating Out,UPI
+2026-06-08,Gym,-2500,Health,Fitness,Card
+2026-06-09,Phone,-800,Bills,Utilities,Card
+2026-06-09,Movie Tickets,-600,Entertainment,Events,UPI
+2026-06-10,Groceries,-1050,Groceries,Essentials,UPI
+2026-06-10,Uber,-360,Transport,Ride Share,UPI
+2026-06-11,Clothing,-4800,Shopping,Clothing,Card
+2026-06-11,Restaurant,-1350,Food,Eating Out,Card
+2026-06-12,Insurance,-5000,Insurance,Health,Card
+2026-06-12,Swiggy,-550,Food,Eating Out,UPI
+2026-06-13,Water,-800,Bills,Utilities,Card
+2026-06-13,Petrol,-1700,Transport,Fuel,Card
+2026-06-14,Books,-450,Shopping,Books,Card
+2026-06-14,Coffee,-200,Food,Beverages,UPI
+2026-06-15,BigBasket,-1300,Groceries,Essentials,Card
+2026-06-15,Zomato,-340,Food,Eating Out,UPI
+2026-06-16,Restaurant Dinner,-1050,Food,Eating Out,Card
+2026-06-16,Swiggy,-400,Food,Eating Out,UPI
+2026-06-17,Haircut,-560,Personal Care,Grooming,UPI
+2026-06-17,Uber Airport,-700,Transport,Ride Share,UPI
+2026-06-18,Vacation Booking,-5000,Travel,Leisure,Card
+2026-06-18,Hotel,-4800,Travel,Accommodation,Card
+2026-06-19,Restaurant,-950,Food,Eating Out,Card
+2026-06-19,Swiggy Night,-380,Food,Eating Out,UPI
+2026-06-20,Gas Bill,-1420,Bills,Utilities,Card
+2026-06-20,Amazon,-2800,Shopping,Online,Card
+2026-06-21,Metro,-160,Transport,Public Transit,UPI
+2026-06-21,Pharmacy,-550,Healthcare,Medicine,UPI
+2026-06-22,Family Dinner,-1850,Food,Eating Out,Card
+2026-06-22,YouTube Premium,-200,Entertainment,Subscription,Card
+2026-06-23,Petrol,-1580,Transport,Fuel,Card
+2026-06-23,Groceries,-880,Groceries,Essentials,UPI
+2026-06-24,Laundry,-340,Personal Care,Service,UPI
+2026-06-24,Swiggy,-470,Food,Eating Out,UPI
+2026-06-25,Cafe,-270,Food,Beverages,UPI
+2026-06-25,EMI,-15000,EMI,Loan,Card
+2026-06-26,Shopping,-3800,Shopping,Clothing,Card
+2026-06-26,Dinner,-1150,Food,Eating Out,Card
+2026-06-27,Uber,-330,Transport,Ride Share,UPI
+2026-06-27,Vegetables,-460,Groceries,Essentials,UPI
+2026-06-28,Insurance,-5000,Insurance,Health,Card
+2026-06-28,Coffee,-180,Food,Beverages,UPI
+2026-06-29,Swiggy,-530,Food,Eating Out,UPI
+2026-06-29,Phone Recharge,-500,Bills,Utilities,UPI
+2026-06-30,Groceries,-1200,Groceries,Essentials,Card
