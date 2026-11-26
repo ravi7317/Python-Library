@@ -194,3 +194,4 @@ Copy code
 1. Save this content in a file named `README.md` in your project directory.
 2. Ensure the paths and descriptions match your actual project setup.
 3. If your project has additional dependencies or setup steps, include them in the `Prerequis
+- Added project documentation notes
