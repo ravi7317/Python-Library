@@ -196,3 +196,4 @@ Copy code
 3. If your project has additional dependencies or setup steps, include them in the `Prerequis
 - Added project documentation notes
 ## This is complete Python course
+## You can study from here 
