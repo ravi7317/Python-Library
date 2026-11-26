@@ -195,3 +195,4 @@ Copy code
 2. Ensure the paths and descriptions match your actual project setup.
 3. If your project has additional dependencies or setup steps, include them in the `Prerequis
 - Added project documentation notes
+## This is complete Python course
